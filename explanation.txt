@@ -1,0 +1,6 @@
+HTML: Sets up the basic structure with two canvas elements for the charts and links to the CSS and JavaScript files.
+CSS: Styles the page for a clean and centered layout.
+JavaScript: Uses Chart.js to create two bar charts:
+The first chart displays the current recommended professions.
+The second chart shows the jobs that will be in demand in three years.
+You can update the currentProfessionsData and futureJobsData variables with real dynamic data sources or APIs as needed.
